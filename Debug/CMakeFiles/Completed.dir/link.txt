@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Completed.dir/StringSearch.cpp.o -o Completed 
